@@ -7,7 +7,7 @@
     <version>0.0.1-SNAPSHOT</version>
     <packaging>pom</packaging>
     <name>byy-backend-microservice</name>
-    <description>鱼 OJ 项目</description>
+    <description>OJ 项目</description>
     <modules>
         <module>byy-backend-common</module>
         <module>byy-backend-model</module>
